@@ -1,0 +1,12 @@
+#include <iostream>
+#define PI 3.14159  // Macro
+using namespace std;
+
+int main() {
+    const int days = 7;  
+    cout << "Using const: Days in a week = " << days << endl;
+    cout << "Using macro: Value of PI = " << PI << endl;
+
+
+    return 0;
+}
