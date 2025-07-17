@@ -7,6 +7,5 @@ int main() {
     cout << "Using const: Days in a week = " << days << endl;
     cout << "Using macro: Value of PI = " << PI << endl;
 
-
     return 0;
 }
